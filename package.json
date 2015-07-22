@@ -1,0 +1,16 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "Storing my nodeschool answers",
+  "main": "README.md",
+  "dependencies": {
+    "how-to-npm": "^2.0.0",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Shipman",
+  "license": "ISC"
+}
