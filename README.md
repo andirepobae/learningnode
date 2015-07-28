@@ -11,6 +11,7 @@ stream-adventure
 
 ### Electives
 
+asyncyou
 bug-clinic
 introtowebgl
 lololodash
