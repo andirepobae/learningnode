@@ -3,9 +3,9 @@
 ### Basics
 
 learnyounode (complete)
-how-to-npm
-javascripting (too easy)
-git-it
+how-to-npm (requires internet)
+javascripting (complete)
+git-it (guide in browser)
 scope-chains-closures
 stream-adventure
 
